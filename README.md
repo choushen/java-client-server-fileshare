@@ -12,7 +12,6 @@ This application demonstrates a basic server-client architecture using Java. The
 │   ├── downloads
 │   ├── ClientProtocols.java
 │   ├── RunClient.java
-│   └── *.class (compiled class files)
 ├── Server
 │   ├── folders
 │   │   ├── folder1
@@ -22,7 +21,6 @@ This application demonstrates a basic server-client architecture using Java. The
 │   ├── RunServer.java
 │   ├── Server.java
 │   ├── ServerProtocols.java
-│   └── *.class (compiled class files)
 ```
 
 ## Description
